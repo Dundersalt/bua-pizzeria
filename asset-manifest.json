@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/buapizzeria.no/static/css/main.408943c5.css",
-    "main.js": "/buapizzeria.no/static/js/main.30e95942.js",
-    "static/js/787.174f3d29.chunk.js": "/buapizzeria.no/static/js/787.174f3d29.chunk.js",
-    "static/media/hand-gesture.png": "/buapizzeria.no/static/media/hand-gesture.ac9906220682a809cb6a.png",
-    "static/media/Avoda400.otf": "/buapizzeria.no/static/media/Avoda400.1439e6e52a0270a876e0.otf",
-    "index.html": "/buapizzeria.no/index.html",
-    "main.408943c5.css.map": "/buapizzeria.no/static/css/main.408943c5.css.map",
-    "main.30e95942.js.map": "/buapizzeria.no/static/js/main.30e95942.js.map",
-    "787.174f3d29.chunk.js.map": "/buapizzeria.no/static/js/787.174f3d29.chunk.js.map"
+    "main.css": "/www.buapizzeria.no/static/css/main.ed6461f7.css",
+    "main.js": "/www.buapizzeria.no/static/js/main.ede99936.js",
+    "static/js/787.174f3d29.chunk.js": "/www.buapizzeria.no/static/js/787.174f3d29.chunk.js",
+    "static/media/hand-gesture.png": "/www.buapizzeria.no/static/media/hand-gesture.ac9906220682a809cb6a.png",
+    "static/media/Avoda400.otf": "/www.buapizzeria.no/static/media/Avoda400.1439e6e52a0270a876e0.otf",
+    "index.html": "/www.buapizzeria.no/index.html",
+    "main.ed6461f7.css.map": "/www.buapizzeria.no/static/css/main.ed6461f7.css.map",
+    "main.ede99936.js.map": "/www.buapizzeria.no/static/js/main.ede99936.js.map",
+    "787.174f3d29.chunk.js.map": "/www.buapizzeria.no/static/js/787.174f3d29.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.408943c5.css",
-    "static/js/main.30e95942.js"
+    "static/css/main.ed6461f7.css",
+    "static/js/main.ede99936.js"
   ]
 }
