@@ -10,4 +10,22 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+  }
+
+  img{
+    animation-name: handanimation;
+    animation-duration: 200ms;
+  }
+
+
+@keyframes handanimation {
+  0% {
+    transform: rotateX(10deg);
+  }
+  50% {
+    transform: rotateX(-10deg);
+  }
+  100% {
+    transform: rotateX(10deg);
+  }
 }
