@@ -10,7 +10,7 @@ const root = ReactDOM.createRoot(
 );
 
 root.render(
-  <BrowserRouter basename='/buapizzeria.no'>
+  <BrowserRouter basename='/buapi'>
     <App />
   </BrowserRouter>
 );
